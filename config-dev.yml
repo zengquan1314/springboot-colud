@@ -1,8 +1,5 @@
 config: {
-	"message": "success",
-	"record": [],
-	"retcode": true,
-	"info": {
+	info: {
 		"appMode": "2",
 		"birthday": "1972-12-04",
 		"patid": "",
@@ -15,18 +12,5 @@ config: {
 		"type": "increase",
 		"cardType": "01",
 		"nation": "8"
-	},
-	"title": {
-		"birthday": "",
-		"healthCardId": "EE54CD5557B7A608E57CA8629CC9EEF1A63B4C1187BF29275910C35927F390BC",
-		"phone": "",
-		"idCard": "452726197212041074",
-		"mainIndexId": "9D831C6ABF7CD53EBFBEB8A1A0DD45E24FEEEC74BED140B1BCB1F837A35FDFE8",
-		"address": "",
-		"name": "韦光文",
-		"gender": "",
-		"cardType": "01",
-		"qrCodeText": "EE54CD5557B7A608E57CA8629CC9EEF1A63B4C1187BF29275910C35927F390BC:1::4500A0028QTHB0014",
-		"nation": ""
 	}
 }
