@@ -1,10 +1,9 @@
-config: {
-	info: {
-		address: "广西天峨县更新乡安亭村林伦屯1号",
-		name: "韦光文",
-		gender: "1",
-		type: "increase",
-		cardType: "01",
-		nation: "8"
-	}
-}
+config:
+	address: "广西天峨县更新乡安亭村林伦屯1号"
+	name: "韦光文"
+	gender: "1"
+	type: "increase"
+	cardType: "01"
+	nation: "8"
+		
+	
